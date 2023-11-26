@@ -7,7 +7,7 @@ Thanks for visiting my github profile.
 
 - 🔭 I’m currently working on video processing using PySide6 and YOLO models
 - 🌱 I’m currently learning ReactJS with MERN stack
-- 📫 How to reach me: <a href= "mailto:frk.tusar@gmail.com">Email Me</a>
+- 📫 How to reach me: Find my <a href= "https://www.linkedin.com/in/farruckahamedtusar/">LinkedIn</a> profile
 - ⚡ Fun fact: Wasting most of my time playing games
 
 
