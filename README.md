@@ -1,5 +1,4 @@
-### Hello, I'm Farruck Ahamed Tusar! 👋
-Thanks for visiting my github profile.
+<img  src="./banner.png"/>
 
 ## 👨🏻‍💻 About Me:
 
