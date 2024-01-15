@@ -4,10 +4,10 @@
 
 <img  src="./profile.gif" height="290px" align="right" />
 
-- 🔭 I’m currently working on video processing using PySide6 and YOLO models
+- 🔭 I’m currently working on video processing software using PySide6 with YOLO models
 - 🌱 I’m currently learning ReactJS with MERN stack
-- 📫 How to reach me: Find my <a href= "https://www.linkedin.com/in/farruckahamedtusar/">LinkedIn</a> profile
 - ⚡ Fun fact: Wasting most of my time playing games
+- 📫 How to reach me: Find my <a href= "https://www.linkedin.com/in/farruckahamedtusar/">LinkedIn</a> profile
 - 🌏︎ Visit: https://www.farruck.com/
 
 
