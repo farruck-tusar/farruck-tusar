@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning ReactJS with MERN stack
 - ⚡ Fun fact: Wasting most of my time playing games
 - 📫 How to reach me: Find my <a href= "https://www.linkedin.com/in/farruckahamedtusar/">LinkedIn</a> profile
-- 🌏︎ Visit: https://www.farruck.com/
 
 
 
