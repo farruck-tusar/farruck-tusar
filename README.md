@@ -4,9 +4,8 @@
 
 <img  src="./profile.gif" height="290px" align="right" />
 
-- 🔭 I’m currently working on video processing software using PySide6 with YOLO models
-- 🌱 I’m currently learning ReactJS with MERN stack
-- ⚡ Fun fact: Wasting most of my time playing games
+- 🔭 Software Engineer with expertise in Java, Python, Spring Boot, Kubernetes, and GCP. Experienced in designing scalable microservices, cloud-native platforms, CI/CD automation, and observability. Strong stakeholder collaborator focused on delivering resilient, high-value solutions for financial services and indexing platforms.
+- ⚡ Fun fact: I’m lazy by nature, so I have a strong appreciation for automation, shortcuts, and making things work smarter—not harder.
 - 📫 How to reach me: Find my <a href= "https://www.linkedin.com/in/farruckahamedtusar/">LinkedIn</a> profile
 
 
